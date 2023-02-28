@@ -1,6 +1,6 @@
 # Basic
 title = "Vno Hugo"
-baseURL = "https://vno-hugo.netlify.app/"
+baseURL = "https://63fe14d9765a9900082b67af--cute-pithivier-07917d.netlify.app/"
 theme = "vno-hugo"
 
 # supported languages: en-us, zh-cn (lowercase language codes only)
