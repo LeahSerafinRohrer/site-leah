@@ -1,6 +1,6 @@
 # Basic
 title = "Vno Hugo"
-baseURL = "http://leahserafinrohrer.com/"
+baseURL = "https://leahserafinrohrer.com/"
 theme = "vno-hugo"
 
 # supported languages: en-us, zh-cn (lowercase language codes only)
