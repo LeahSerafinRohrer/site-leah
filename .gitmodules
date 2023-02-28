@@ -1,0 +1,3 @@
+[submodule "themes/Vno"]
+	path = themes/Vno
+	url = https://github.com/xslingcn/Vno-Hugo
