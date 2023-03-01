@@ -1,5 +1,5 @@
 # Basic
-title = "Vno Hugo"
+title = "Leah Serafin Rohrer"
 baseURL = "https://leahserafinrohrer.com/"
 theme = "vno-hugo"
 
@@ -37,12 +37,12 @@ paginatePath = "page"
     
 [params]
 author = "onevcat"
-subtitle = "A blog-orientation theme for Hugo"
-description = "Vno Hugo is a port of Vno Jekyll."
-welcomeMessage = "Oh What a World"
+subtitle = "I swear it wasn't me ;-;"
+description = "Three letter agencies, pls no ban irl"
+welcomeMessage = "remember to :wq! kids"
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-coverColor = "red"
+coverColor = ""
 
 [params.comment]
 disqus = "vno-hugo"
@@ -56,12 +56,12 @@ repo = ""
 owner = ""
 
 [params.social]
-weibo = "onevcat"
-github = "onevcat"
-twitter = "onevcat"
-gplus = "107108267983477358170"
-mail = "onev@onevcat.com"
-linkedin = "example"
+# weibo = "onevcat"
+github = "LeahSerafinRohrer"
+# twitter = "LeahSerafinRohrer"
+# gplus = "107108267983477358170"
+mail = "glider.kmn@proton.me"
+#linkedin = "example"
 
 [params.ga]
 ID = "your_ga_id"
