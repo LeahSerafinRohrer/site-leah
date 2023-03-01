@@ -22,21 +22,21 @@ paginatePath = "page"
   home = ["HTML", "RSS"]
 
 [menu]
-  [[menu.main]]
-    name = "Projects"
-    identifier = "projects"
-    url = "http://project.onevcat.com/"
-    weight = 10
- [[menu.main]]
-    name = "Tags"
-    identifier = "Tags"
-    url = "/tags/"
-    weight = 20
+#  [[menu.main]]
+#    name = "Projects"
+#    identifier = "projects"
+#    url = "http://project.onevcat.com/"
+#    weight = 10
+# [[menu.main]]
+#    name = "Tags"
+#    identifier = "Tags"
+#    url = "/tags/"
+#    weight = 20
 [taxonomies]
     tag = "tags"
     
 [params]
-#author = "onevcat"
+author = "onevcat"
 subtitle = "I swear it wasn't me ;-;"
 # description = "Three letter agencies, pls no ban irl"
 # welcomeMessage = "remember to :wq! kids"
@@ -69,8 +69,8 @@ host = "your_host"
 
 # The blog button should not be removed.
 [params.blogButton]
-title = "Blog"
-description = "Visit blog"
+title = "Projects"
+description = "Visit projects"
 
 [params.copyright]
 license = 'CC BY-NC-SA 4.0'
