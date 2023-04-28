@@ -44,16 +44,16 @@ subtitle = "she/her"
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 coverColor = "slate"
 
-[params.comment]
-disqus = "vno-hugo"
-duoshuo = ""
-
-# Take a look on https://github.com/gitalk/gitalk#usage for more info.
-[params.comment.gitalk]
-ID = ""
-secret = ""
-repo = ""
-owner = ""
+#[params.comment]
+#disqus = "vno-hugo"
+#duoshuo = ""
+#
+## Take a look on https://github.com/gitalk/gitalk#usage for more info.
+#[params.comment.gitalk]
+#ID = ""
+#secret = ""
+#repo = ""
+#owner = ""
 
 [params.social]
 # weibo = "onevcat"
@@ -63,18 +63,18 @@ github = "LeahSerafinRohrer"
 mail = "glider.kmn@proton.me"
 #linkedin = "example"
 
-[params.ga]
-ID = "your_ga_id"
-host = "your_host"
+#[params.ga]
+#ID = "your_ga_id"
+#host = "your_host"
 
 # The blog button should not be removed.
 [params.blogButton]
 title = "Projects"
 description = "Visit projects"
 
-[params.copyright]
-license = 'CC BY-NC-SA 4.0'
-license_link = 'http://creativecommons.org/licenses/by-nc-sa/4.0/'
+#[params.copyright]
+#license = 'CC BY-NC-SA 4.0'
+#license_link = 'http://creativecommons.org/licenses/by-nc-sa/4.0/'
 
 [permalinks]
 posts = "/:year/:month/:title/"
